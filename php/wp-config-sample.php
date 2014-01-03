@@ -66,10 +66,10 @@ $table_prefix  = 'wp_';
  *
  * Change this to localize WordPress. A corresponding MO file for the chosen
  * language must be installed to wp-content/languages. For example, install
- * de_DE.mo to wp-content/languages and set WPLANG to 'de_DE' to enable German
+ * fa_IR.mo to wp-content/languages and set WPLANG to 'fa_IR' to enable Persian
  * language support.
  */
-define('WPLANG', '');
+define('WPLANG', 'fa_IR'); // by http://wp-persian.com Team :)
 
 /**
  * For developers: WordPress debugging mode.
